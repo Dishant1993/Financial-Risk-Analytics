@@ -1,5 +1,5 @@
 # Financial-Risk-Analytics Project
-Problem Statement
+Problem Statement: 
 Businesses or companies can fall prey to default if they are not able to keep up their debt 
 obligations. Defaults will lead to a lower credit rating for the company which in turn reduces 
 its chances of getting credit in the future and may have to pay higher interests on existing 
@@ -13,7 +13,7 @@ Data that is available includes information from the financial statement of the 
 the previous year (2015). Also, information about the Networth of the company in the 
 following year (2016) is provided which can be used to drive the labeled field.
 
-Conclusion
+Conclusion:
 The two approaches used gave quite different results.
 The second approach – Model B (where the model was built using all the independent 
 variables and then dropping those with p values > 0.05) gave a better model than the 
